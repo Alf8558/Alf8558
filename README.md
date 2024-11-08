@@ -49,7 +49,7 @@
 ---
 ## 💬 Contacto
 
-- **Correo electrónico**: [tu-email@dominio.com](mailto:tu-email@dominio.com)
+- **Correo electrónico**:(alfonsocarrascosajimenez@hotmail.com)
 - **LinkedIn**: [Tu Perfil de LinkedIn](https://www.linkedin.com/in/tu-perfil)
 - **Twitter**: [@tu_usuario](https://twitter.com/tu_usuario)
 - **Portafolio**: [tu-portfolio.com](https://tu-portfolio.com)
